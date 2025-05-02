@@ -1,0 +1,15 @@
+opencv-python
+pyttsx3
+psutil
+pygame
+pyautogui
+requests
+feedparser
+pyjokes
+SpeechRecognition
+pywhatkit
+PyDictionary
+pygetwindow
+datetime
+googletrans==4.0.0-rc1
+gtts
